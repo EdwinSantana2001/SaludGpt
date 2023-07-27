@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">ChatGPT</string>
+    <string name="lbl_title">Bienvenido</string>
+    <string name="txt_in_name">NOMBRE</string>
+    <string name="txt_in_age">EDAD ACTUAL</string>
+    <string name="btn_continue">CONTINUAR</string>
+
+    <!-- Primera pregunta-->
+    <string name="lbl_cuestion1">¿Con cuántos amigos compartes tus problemas?</string>
+    <string name="lbl_cuestion1_response1">Con ninguno</string>
+    <string name="lbl_cuestion1_response2">Con uno a tres amigos</string>
+    <string name="lbl_cuestion1_response3">Con cuatro o más</string>
+
+    <!-- Segunda pregunta-->
+    <string name="lbl_cuestion2">¿Cuántos abrazos o besos recibes por semana?</string>
+    <string name="lbl_cuestion2_response1">Ninguno</string>
+    <string name="lbl_cuestion2_response2">De 1 a 3</string>
+    <string name="lbl_cuestion2_response3">Cuatro o más</string>
+
+    <!-- Tercera pregunta-->
+    <string name="lbl_cuestion3">¿Cuál es la forma de tu cuerpo?</string>
+    <string name="lbl_cuestion3_response1">Obesa</string>
+    <string name="lbl_cuestion3_response2">Ligero sobrepeso</string>
+    <string name="lbl_cuestion3_response3">Cinco kilos de sobrepeso</string>
+    <string name="lbl_cuestion3_response4">Perfecta para mi altura</string>
+    <string name="lbl_cuestion3_response5">Por debajo del peso</string>
+
+    <!-- Cuarta pregunta-->
+    <string name="lbl_cuestion4">¿Cuán grande es tu barriga?</string>
+    <string name="lbl_cuestion4_response1">Muy grande</string>
+    <string name="lbl_cuestion4_response2">Redonda</string>
+    <string name="lbl_cuestion4_response3">Casi chata</string>
+    <string name="lbl_cuestion4_response4">Sin ninguna</string>
+
+    <!-- Quinta pregunta-->
+    <string name="lbl_cuestion5">¿Con qué frecuencia sientes cansancio?</string>
+    <string name="lbl_cuestion5_response1">Casi todos los días</string>
+    <string name="lbl_cuestion5_response2">Casi todos los días después de almorzar</string>
+    <string name="lbl_cuestion5_response3">A veces</string>
+    <string name="lbl_cuestion5_response4">Nunca</string>
+
+    <!-- Sexta pregunta-->
+    <string name="lbl_cuestion6">¿Fumas?</string>
+    <string name="lbl_cuestion6_response1">No, nunca fumé</string>
+    <string name="lbl_cuestion6_response2">Dejé hace 5 años o más</string>
+    <string name="lbl_cuestion6_response3">Dejé hace 3 a 5 años</string>
+    <string name="lbl_cuestion6_response4">Dejé hace 1 a 3 años</string>
+    <string name="lbl_cuestion6_response5">Dejé este año</string>
+    <string name="lbl_cuestion6_response6">Si, fumo</string>
+
+    <!-- Septima pregunta-->
+    <string name="lbl_cuestion7">¿Tomas refrescos o jugos sintéticos o industriales?</string>
+    <string name="lbl_cuestion7_response1">Nunca</string>
+    <string name="lbl_cuestion7_response2">Uno a tres vasos por semana</string>
+    <string name="lbl_cuestion7_response3">Cuatro a seis vasos</string>
+    <string name="lbl_cuestion7_response4">Más de siete</string>
+
+    <!-- Octava pregunta-->
+    <string name="lbl_cuestion8">¿Consumes enlatados y comidas en conserva?</string>
+    <string name="lbl_cuestion8_response1">Para todas las comidas</string>
+    <string name="lbl_cuestion8_response2">La mayoría</string>
+    <string name="lbl_cuestion8_response3">Para menos de la mitad de mis comidas</string>
+    <string name="lbl_cuestion8_response4">Nunca uso comida en conservas</string>
+
+    <!-- Novena pregunta -->
+    <string name="lbl_cuestion9">¿Cuántas veces por semana te sientes demasiado lleno después de comer?</string>
+    <string name="lbl_cuestion9_response1">Más de siete veces</string>
+    <string name="lbl_cuestion9_response2">De 3 a 6</string>
+    <string name="lbl_cuestion9_response3">De 1 a 2</string>
+    <string name="lbl_cuestion9_response4">Nunca</string>
+
+    <!-- Décima pregunta -->
+    <string name="lbl_cuestion10">¿Cuántos resfríos sufristeis el último año?</string>
+    <string name="lbl_cuestion10_response1">Cinco o más</string>
+    <string name="lbl_cuestion10_response2">Tres o cuatro</string>
+    <string name="lbl_cuestion10_response3">Uno o dos</string>
+    <string name="lbl_cuestion10_response4">Ninguno</string>
+
+    <string name="lbl_cuestion11">¿Has consumido antibióticos los últimos cinco años?</string>
+    <string name="lbl_cuestion11_response1">No</string>
+    <string name="lbl_cuestion11_response2">Una a dos veces</string>
+    <string name="lbl_cuestion11_response3">Tres o más veces</string>
+
+    <!-- Duodécima pregunta -->
+    <string name="lbl_cuestion12">¿Cuántas veces por semana caminas o realizas ejercicio por 30 minutos o más?</string>
+    <string name="lbl_cuestion12_response1">Nunca</string>
+    <string name="lbl_cuestion12_response2">De 1 a 2</string>
+    <string name="lbl_cuestion12_response3">De 3 a 4</string>
+    <string name="lbl_cuestion12_response4">Cinco o más</string>
+
+    <!-- Decimotercera pregunta -->
+    <string name="lbl_cuestion13">¿Cuántas veces por semana haces ejercicios de fuerza muscular?</string>
+    <string name="lbl_cuestion13_response1">Nunca</string>
+    <string name="lbl_cuestion13_response2">Una o dos</string>
+    <string name="lbl_cuestion13_response3">De 3 a 5</string>
+    <string name="lbl_cuestion13_response4">Seis o más</string>
+
+    <!-- Response Layout-->
+    <string name="lbl_yourAge">Tu edad real es:</string>
+    <string name="lbl_tips">Consejos</string>
+    <string name="btn_back">Regresar</string>
+    <string name="btn_tip">Consejo AI</string>
+
+    <!-- Response Layout-->
+    <string name="message_empty">Debe llenar ambos campos</string>
+    <string name="message_saveData">Datos guardados. ->Continuar</string>
+    <string name="message_error">Ups!! Algo ha salido mal</string>
+    <string name="message_select">Debe escoger una opción</string>
+
+    <!-- Prompt OldPerson-->
+    <string name="prompt_name"> Mi nombre es </string>
+    <string name="prompt_old1"> dame consejos para mejorar mi estado físico ya que tengo </string>
+    <string name="prompt_appearance"> años pero aparento </string>
+
+    <!-- Prompt TeenPerson-->
+    <string name="prompt_teen1"> dame consejos para mantenerme en forma ya que mi edad real es </string>
+
+
+
+</resources>
